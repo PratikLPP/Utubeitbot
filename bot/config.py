@@ -3,7 +3,7 @@ import os
 
 class Config:
 
-    BOT_TOKEN = "5737688968:AAGq5Jk4CMp6tdFRH_aiOMIXz4mV7_A7__w"
+    BOT_TOKEN = "6231572240:AAFfHNrub_eUZzN3-BLh6WgdX1-A988oheg"
 
     SESSION_NAME = ":memory:"
 
